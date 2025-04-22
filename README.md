@@ -82,6 +82,6 @@ This project is open-source
 
 ## Author
 
-David Feng  
+David Feng
 Ph.D. Student, UVA Civil & Environmental Engineering Dept.  <br />
 Graduate Research Assistant, Turner-Fairbank Highway Research Center
